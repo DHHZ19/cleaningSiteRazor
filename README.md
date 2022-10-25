@@ -3,7 +3,7 @@ A cleaning site built with .Net Razor pages + C# + CSHTML + SCSS
 
 **Link to project:** 
 
-<img width="40%" src="https://images.unsplash.com/photo-1661956602926-db6b25f75947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3262&q=80"/>
+<img width="40vw" height="50vh" src="https://images.unsplash.com/photo-1661956602926-db6b25f75947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3262&q=80"/>
 
 ## How It's Made:
 
