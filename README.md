@@ -7,7 +7,7 @@ A cleaning site built with .Net Razor pages + C# + CSHTML + SCSS
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, EJS, MongoDB, Passaport.js
+**Tech used:** HTML, SCSS, .Net Razor Pages
 
 
 ## Optimizations
