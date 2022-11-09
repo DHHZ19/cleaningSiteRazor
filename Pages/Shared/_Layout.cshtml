@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/RazorPagesMovie.styles.css" asp-append-version="true" />
 </head>
-@await RenderSectionAsync("Header", required: false)
+@await Html.PartialAsync("_thiny.cshtml")
 @RenderBody()
 @await RenderSectionAsync("Scripts", required: false)
 

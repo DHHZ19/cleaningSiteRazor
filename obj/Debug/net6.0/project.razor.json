@@ -16298,6 +16298,11 @@
   "RootNamespace": "RazorPagesMovie",
   "Documents": [
     {
+      "FilePath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/Pages/Shared/_thiny.cshtml",
+      "TargetPath": "Pages\\Shared\\_thiny.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
