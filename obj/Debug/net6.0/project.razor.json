@@ -16303,6 +16303,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/Pages/Shared/_HeaderPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_HeaderPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"

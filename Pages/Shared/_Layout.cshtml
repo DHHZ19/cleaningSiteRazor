@@ -9,11 +9,8 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/RazorPagesMovie.styles.css" asp-append-version="true" />
 </head>
-<div class="container">
-    <main role="main" class="pb-3">
-        @RenderBody()
-    </main>
-</div>
+@await RenderSectionAsync("Header", required: false)
+@RenderBody()
 @await RenderSectionAsync("Scripts", required: false)
 
 </html>
