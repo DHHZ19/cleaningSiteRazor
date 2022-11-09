@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diegohernandez/Documents/appWithRazor/RazorPagesMovie/RazorPagesMovie.csproj": {}
+    "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "/Users/diegohernandez/Documents/appWithRazor/RazorPagesMovie/RazorPagesMovie.csproj": {
+    "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diegohernandez/Documents/appWithRazor/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectUniqueName": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "/Users/diegohernandez/Documents/appWithRazor/RazorPagesMovie/RazorPagesMovie.csproj",
+        "projectPath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/RazorPagesMovie.csproj",
         "packagesPath": "/Users/diegohernandez/.nuget/packages/",
-        "outputPath": "/Users/diegohernandez/Documents/appWithRazor/RazorPagesMovie/obj/",
+        "outputPath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/diegohernandez/.nuget/NuGet/NuGet.Config"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
