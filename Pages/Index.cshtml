@@ -3,6 +3,7 @@
 @{
     ViewData["Title"] = "Home page";
 }
+@section Header{
 <header class="is-preload">
     <!-- Header -->
     <div id="header" class="alt">
@@ -10,19 +11,13 @@
         </a>
         <nav id="nav">
             <ul>
-                <li class="active"><a href="index.html">Home</a></li>
-                <li><a href="generic.html">Our Team</a></li>
-                <li><a href="elements.html">Elements</a></li>
+                <li class="active"><a href="#">Home</a></li>
             </ul>
         </nav>
 </header>
+}
 <!-- Main -->
 <div id="main">
-    <!-- Header -->
-    <header>
-        <img src="images/momsMainLogo.svg" alt="a man cleaning logo" />
-    </header>
-
     <!-- Banner -->
     <section class="banner">
         <h2>Clean home guaranteed down to the details</h2>
@@ -170,7 +165,7 @@
         </ul>
     </section>
 </div>
-
+@section Footer{
 <!-- Footer -->
 <div id="footer">
     <h2 id="get-a-quote">Get your estiamte or ask us any questions!</h2>
@@ -261,3 +256,4 @@
     </ul>
     <p class="copyright">&copy; L & J's Cleaning Services.</p>
 </div>
+}

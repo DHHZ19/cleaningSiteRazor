@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/diegohernandez/Documents/cleaningSiteRazor/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/RazorPagesMovie.csproj",
+      "projectPath": "/Users/diegohernandez/Documents/cleaningSiteRazor/RazorPagesMovie.csproj",
       "packagesPath": "/Users/diegohernandez/.nuget/packages/",
-      "outputPath": "/Users/diegohernandez/Documents/appWithRazor/cleaningSiteRazor/obj/",
+      "outputPath": "/Users/diegohernandez/Documents/cleaningSiteRazor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/diegohernandez/.nuget/NuGet/NuGet.Config"
