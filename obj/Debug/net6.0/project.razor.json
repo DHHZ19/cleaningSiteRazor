@@ -16313,11 +16313,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/diegohernandez/Documents/cleaningSiteRazor/Pages/Shared/_thiny.cshtml",
-      "TargetPath": "Pages\\Shared\\_thiny.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/diegohernandez/Documents/cleaningSiteRazor/Pages/_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
